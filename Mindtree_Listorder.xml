@@ -1,8 +1,0 @@
-<config>
-  <modules>
-    <Mindtree_Listorder>
-      <active>true</active>
-      <codePool>local</codePool>
-    </Mindtree_Listorder>
-  </modules>
-</config>
