@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+ 
+<config>
+    <modules>
+        <Mindtree_Listorder>
+            <version>0.1.0</version>
+        </Mindtree_Listorder>
+    </modules>    
+    <frontend>
+        <routers>
+            <Mindtree_Listorder_SomeFreeRouterName1>
+                <use>standard</use>
+                <args>
+                    <module>Mindtree_Listorder</module>
+                    <frontName>mindtree-listorder</frontName>
+                </args>
+            </Mindtree_Listorder_SomeFreeRouterName1>
+        </routers>
+    </frontend>    
+</config>
